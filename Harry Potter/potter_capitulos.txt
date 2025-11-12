@@ -1,8 +1,15 @@
 1	Harry Potter y la piedra filosofal
 2	Harry Potter y la cámara secreta
 3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+4	Harry Potter y el cáliz de fuego (2000)
+5	Harry Potter y la Orden del Fénix (2003)
+6	Harry Potter y el misterio del príncipe (2005)
+7	Harry Potter y las Reliquias de la Muerte (2007)
+	
+
+	
+	
+	
+
+	
+	
